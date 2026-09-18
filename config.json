@@ -1,0 +1,4 @@
+{
+  "serviceName": "payments-api",
+  "environment": "dev"
+}
